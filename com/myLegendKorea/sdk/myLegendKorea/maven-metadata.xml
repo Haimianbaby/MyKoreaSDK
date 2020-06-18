@@ -3,13 +3,14 @@
   <groupId>com.myLegendKorea.sdk</groupId>
   <artifactId>myLegendKorea</artifactId>
   <versioning>
-    <release>1.0.3</release>
+    <release>1.0.3-tracker</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>1.0.3</version>
+      <version>1.0.3-tracker</version>
     </versions>
-    <lastUpdated>20200610030417</lastUpdated>
+    <lastUpdated>20200618015319</lastUpdated>
   </versioning>
 </metadata>
