@@ -3,7 +3,7 @@
   <groupId>com.myLegendKorea.sdk</groupId>
   <artifactId>myLegendKorea</artifactId>
   <versioning>
-    <release>1.0.3-onestroe</release>
+    <release>1.0.3-onestore</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -11,7 +11,8 @@
       <version>1.0.3</version>
       <version>1.0.3-tracker</version>
       <version>1.0.3-onestroe</version>
+      <version>1.0.3-onestore</version>
     </versions>
-    <lastUpdated>20200623093541</lastUpdated>
+    <lastUpdated>20200628021709</lastUpdated>
   </versioning>
 </metadata>
